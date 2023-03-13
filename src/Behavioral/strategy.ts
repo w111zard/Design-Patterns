@@ -26,19 +26,19 @@ namespace v1 {
 
     class MallardDuck extends Duck {
         display(): void {
-            console.log('I am mallard duck')
+            console.log('I am a mallard duck')
         }
     }
 
     class RedheadDuck extends Duck {
         display(): void {
-            console.log('I am redhead duck');
+            console.log('I am a redhead duck');
         }
     }
 
     class RubberDuck extends Duck {
         display(): void {
-            console.log('I am rubber duck')
+            console.log('I am a rubber duck')
         }
     }
 }
@@ -234,7 +234,7 @@ namespace v4 {
         }
 
         display(): void {
-            console.log('I am an rubber duck')
+            console.log('I am a rubber duck')
         }
     }
 
